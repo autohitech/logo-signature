@@ -5,3 +5,6 @@
 
 ## Signature02
 ![](/png/Logo_Signature_02.png)
+
+## License
+[MIT License](/LICENSE)
